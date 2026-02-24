@@ -1,0 +1,26 @@
+# Secrets & sensitive config
+settings.json
+
+# Session & runtime data
+history.jsonl
+*.jsonl
+paste-cache/
+debug/
+todos/
+backups/
+cache/
+file-history/
+shell-snapshots/
+session-env/
+statsig/
+telemetry/
+stats-cache.json
+
+# Project session files
+projects/
+
+# Plugin marketplace (large, auto-managed)
+plugins/
+
+# macOS
+.DS_Store

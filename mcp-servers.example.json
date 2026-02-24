@@ -1,0 +1,20 @@
+{
+  "mcpServers": {
+    "exa": {
+      "type": "stdio",
+      "command": "npx",
+      "args": ["-y", "exa-mcp-server"],
+      "env": {
+        "EXA_API_KEY": "YOUR_EXA_API_KEY"
+      }
+    },
+    "github": {
+      "type": "stdio",
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-github"],
+      "env": {
+        "GITHUB_PERSONAL_ACCESS_TOKEN": "YOUR_GITHUB_PAT"
+      }
+    }
+  }
+}
