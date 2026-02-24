@@ -75,22 +75,32 @@ Choose ONE hook — the intersection of what the reader cares about most and wha
 
 ## Step 3: Write the Email
 
-**Architecture (5–9 sentences max, under 150 words):**
+**Format: 2–4 paragraphs.** Not a wall of text, not a list of bullet points. Paragraphs — because they read like a person, not a template.
+
+**Architecture:**
 
 ```
-[HOOK LINE] — One sentence inside their world that signals you belong
-[WORLD ZOOM] — Their specific problem/desire named accurately (2–3 sentences)
-[THE FLIP] — What you uniquely offer, as a solution to their world (1–2 sentences)
-[ROOTING] — One concrete proof point — specific result, company, project (1–2 sentences)
-[FRICTIONLESS ASK] — Smallest possible next step (1 sentence)
+[PARA 1 — CONTEXT] Why you're writing. What specifically about them caught your attention.
+  Open as a human being, not as a proof point. No technical jargon. No project names yet.
+  This paragraph exists to make them feel: "this person actually looked at what I'm doing."
+
+[PARA 2 — WHO YOU ARE + THE ANGLE] Who you are, framed around what's relevant to them.
+  One clear angle — not a career summary. Projects are supporting evidence, not the lead.
+  Name one thing you've built or done that's directly relevant. Briefly. Then stop.
+
+[PARA 3 — WHY THEM, THE ASK] Why this specific person or company, and the next step.
+  Smallest possible ask. Frictionless. Give them an exit.
+
+[PARA 4 — optional] Only if there's something genuinely worth adding. If in doubt, cut it.
 ```
 
-**Line-by-line rules:**
-- Hook: Opens in their world, not yours. Should create "this person gets it," not "this person wants something."
-- World Zoom: Name the problem they're already aware of. Use their exact vocabulary.
-- The Flip: One claim. Not five. The one thing you do that matters to *them*.
-- Rooting: "I helped X do Y" beats "I have 5 years experience." If no example, use a specific observation or prototype.
-- Ask: 15-minute call > "let's work together." Give them an exit: "happy to share more if relevant." Never ask for the outcome in email #1 — ask for the conversation.
+**Paragraph-level rules:**
+
+- **Para 1 must not start with "I."** Open in their world — their work, their problem, their launch, something real you noticed. Establish you're a person who did actual research, not someone running a mail merge.
+- **No buzzwords in Para 1.** No "AI-powered," "agentic," "LLM," "RAG" — none of it. Talk like a person.
+- **Para 2 is not a resume.** Don't list projects. Pick the one thing most relevant to them and give it one sentence. The rest of your background can come up on the call.
+- **The ask is always a conversation, never the outcome.** 15-minute call. Short project. Not "hire me" or "let's partner."
+- **Total length: 100–200 words.** Longer than a tweet, shorter than anything they'd have to scroll.
 
 ---
 
@@ -138,7 +148,7 @@ Present in this exact order:
 | "I'm a passionate X with Y years of experience" | Self-focused | Lead with what you noticed about *them* |
 | Generic flattery ("Your company is amazing") | No specificity = no signal | Name something specific they did/built/said |
 | Listing 5+ things you offer | Dilutes attention | Pick the ONE most relevant thing |
-| Long email with full bio | Disrespects their time | 5–9 sentences only |
+| Long email with full bio | Disrespects their time | 2–4 paragraphs, 100–200 words |
 | "I'd love to connect sometime" | Too vague | Specific small ask with clear value |
 | "Let me know if you're interested" | Burden on them | Give a clear micro-action |
 | Overselling in first email | Feels desperate | Sell the conversation, not the outcome |
